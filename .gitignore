@@ -1,0 +1,16 @@
+# --- ARCHIVOS DE CÓDIGO Y ENTORNO (Python) ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- BASES DE DATOS LOCALES ---
+*.db
+*.sqlite3
+
+# --- CONFIGURACIONES DEL EDITOR Y SISTEMA ---
+.vscode/
+.DS_Store
+
+# --- ARCHIVOS TEMPORALES ---
+*.log
